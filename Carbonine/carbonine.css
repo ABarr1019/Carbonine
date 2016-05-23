@@ -1,0 +1,42 @@
+img{
+	width: 100%;
+	height: 100%;
+}
+
+.panel-heading {
+  color: #333;
+  font-size: 40px;
+  font-family: Roboto;
+  text-align: center;
+
+}
+
+
+
+p{
+	font-family: lobster;
+	font-size: 20px;
+}
+
+body{
+	background-color: blue;
+}
+
+table, th, td {
+	font-family: PT Sans;
+    font-size: 20px;
+    border-collapse: collapse;
+    padding-bottom:30px;
+
+}
+
+#brand{
+	font-size: 60px;
+	color: green;
+	font-family: Josefin Slab Bold;
+	text-align: center;
+}
+
+.jumbotron{
+	
+}
