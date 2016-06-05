@@ -4,6 +4,10 @@ img{
   margin-right: auto;
 }
 
+#pic{
+	background-color:black;
+}
+
 .panel-heading {
   color: #333;
   font-size: 40px;
